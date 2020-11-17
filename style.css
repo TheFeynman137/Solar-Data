@@ -54,6 +54,10 @@ li a {
   text-decoration: none;
 }
 
+#footer {
+	float: right;
+}
+
 /* Change the link color to white on hover */
 li a:hover {
   background-color: #fff;
