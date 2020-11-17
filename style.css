@@ -35,8 +35,8 @@ p {
 
 ul {
   list-style-type: none;
-  margin: 5;
-  padding: 2000;
+  margin: 5px;
+  padding: 20px;
   overflow: hidden;
   background-color: #601;
   font-family: sans-serif;
